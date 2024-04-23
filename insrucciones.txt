@@ -2,3 +2,6 @@ pip install django==version (4.0.4)
 
 django-admin startproject holaMundo
 
+python manage.py migrate
+
+python manage.py runserver
